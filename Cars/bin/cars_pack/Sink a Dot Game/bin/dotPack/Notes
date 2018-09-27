@@ -1,0 +1,11 @@
+Create an 7*7 Array
+
+Create dot coms
+Assign random places for dotcoms(each 3spots)
+
+guess the places
+lose/hit/kill
+kill means hit all 3 spots of a dotcom.
+
+count every attempt
+use count for declaring 
